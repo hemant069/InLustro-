@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { BsArrowDownSquare } from "react-icons/bs";
-import { LineChart, YAxis, XAxis, Line, Tooltip, Legend } from "recharts";
+
 import { Graph } from "./Graph";
 import { data } from "../data/GraphData";
 
